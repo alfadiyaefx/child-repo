@@ -1,3 +1,6 @@
 [submodule "lib/rc/test-app1"]
 	path = lib/rc/test-app1
 	url = git@github.com:alfadiyaefx/test-app1.git
+[submodule "src/source/test-zuul"]
+	path = src/source/test-zuul
+	url = git@github.com:alfadiyaefx/parent-repo.git
